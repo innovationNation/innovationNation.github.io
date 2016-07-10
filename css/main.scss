@@ -1523,7 +1523,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		p {
 			letter-spacing: _size(letter-spacing-alt);
-			text-transform: uppercase;
+			//text-transform: uppercase;
 
 			a {
 				color: inherit;
